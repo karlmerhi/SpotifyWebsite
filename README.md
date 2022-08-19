@@ -1,4 +1,4 @@
-# Spotify Website (Angular & ExpressJS) <img height="32" width="44" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F08%2FSpotify-Logo.png&f=1&nofb=1" />
+## Spotify Website (Angular & ExpressJS) <img height="32" width="44" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F08%2FSpotify-Logo.png&f=1&nofb=1" />
 
 ### Languages and Tools Used:
 
@@ -12,7 +12,7 @@
 <img height="32" width="52" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
-# Introduction
+## Introduction
 The purpose of this application was to create a music website that pulls directly from the Spotify API and contains features such as searching for artists, being able to favourite songs, preview songs as well as viewing artists, albums and new releases.
 
 This project was done to create a full-stack website using Angular for the application framework, ExpressJS for the server side framework, HTML5/CSS3 for the design, and Mongoose/MongoDB Atlas for database management. The back-end API with contains protected routes, it contains all of the JSON sample data on the MongoDB Atlas server and was uploaded to Heroku with the routes available for handling request and response data.
