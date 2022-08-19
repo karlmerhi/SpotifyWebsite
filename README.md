@@ -1,4 +1,3 @@
-=======
 # Spotify Website (Angular & ExpressJS) <img height="32" width="44" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F08%2FSpotify-Logo.png&f=1&nofb=1" />
 
 ### Languages and Tools Used:
