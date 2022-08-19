@@ -1,7 +1,7 @@
 {
   "name": "web422-a4",
   "version": "0.0.0",
-  "engines": { "node": "x.x.x", "npm": "x.x.x" },
+  "engines": { "node": ">=15.0.0", "npm": ">=5.0.0" },
   "scripts": {
     "heroku-postbuild": "ng build — prod",
     "ng": "ng",
