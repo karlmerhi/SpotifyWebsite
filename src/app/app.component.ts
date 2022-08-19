@@ -1,13 +1,3 @@
-/*********************************************************************************
- * WEB422 – Assignment 05
- * I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
- * assignment has been copied manually or electronically from any other source (including web sites) or
- * distributed to other students.
- *
- * Name: Karl Merhi Student ID: 150828168 Date: 08/17/2022
- *
- ********************************************************************************/
-
 import { Component, OnInit } from '@angular/core';
 import { NavigationStart, Router } from '@angular/router';
 import { AuthService } from './auth.service';
