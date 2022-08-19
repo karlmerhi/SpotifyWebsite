@@ -10,12 +10,10 @@ const express = require("express");
 const path = require("path");
 const app = express();
 app.use(requireHTTPS);
-app.use(express.static(__dirname + '\\dist\\web422-a4'));
-app.use(express.static(__dirname + '/angular-build'));
+app.use(express.static('./dist/'));
 
-
-app.get("/*", function (req, res) {
-  res.sendFile(path.join(__dirname + '\\src\\index.html'));
+app.get('/*', (req, res) => {
+  res.sendFile('index.html', { root: 'dist/' });
 });
 
 app.listen(process.env.PORT || 8080);
